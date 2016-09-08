@@ -1,2 +1,2 @@
-# dessine_moi_un_repo_git
-Pour le challenge de la quête Comprendre git
+# Dessine moi un repo Git
+Pour le challenge de la quête **Comprendre git**
